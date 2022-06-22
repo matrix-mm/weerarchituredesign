@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://weerarchituredesign.netlify.app/"
+title = "WeeR | Architectural Designer"
+author = "MATRiX"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Weer Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
