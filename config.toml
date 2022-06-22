@@ -81,5 +81,5 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Facebook"
     url = "https://www.facebook.com/weer.arch.mm"
-    pre = "<i class='icon-github text-2xl'></i>"
+    pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 2
