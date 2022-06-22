@@ -1,0 +1,19 @@
+[
+  {
+    "title": "WeeR",
+    "description": "Weer Designed and Weer Made.",
+    "icon":"icon-facebook",
+    "link":"https://www.facebook.com/weer.arch.mm"
+  },
+  {
+    "title": "Fast",
+    "description": "More than just an architecture firm.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Gmail",
+    "description": "Please fork the Github repository and contribute to this theme!",
+    "icon": "icon-email",
+    "link": "mailto::weer.arch.mm@gmail.com"
+  }
+]
